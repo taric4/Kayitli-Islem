@@ -1,0 +1,2 @@
+# Kayitli-Islem
+işlem kaydetme
